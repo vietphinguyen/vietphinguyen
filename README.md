@@ -4,8 +4,8 @@ Mobile developer in Ho Chi Minh City. Five years of Flutter and React Native, sh
 
 **Now**
 
-- Building a property-management platform for residential buildings: two Flutter apps (staff and residents) from one monorepo I architected, on Firebase + Cloud Functions
-- Building [VocabNote](https://vocabnote.study), an AI vocabulary app. Solo: Flutter app, Firebase backend, Gemini integration, and the App Store release
+- Mobile developer at Pitek since May 2025
+- Building [VocabNote](https://vocabnote.study) as a hobby, an AI vocabulary app
 
 **Before**
 
