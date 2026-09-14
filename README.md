@@ -1,6 +1,6 @@
 # Viet Phi Nguyen (Nate)
 
-Mobile developer in Ho Chi Minh City. Five years of Flutter and React Native, shipping cross-platform apps on iOS and Android. I like owning the whole thing: architecture, the UI, the backend it talks to, and the store release.
+Mobile developer in Ho Chi Minh City. 4+ years of Flutter and React Native, shipping cross-platform apps on iOS and Android. I like owning the whole thing: architecture, the UI, the backend it talks to, and the store release.
 
 **Now**
 
