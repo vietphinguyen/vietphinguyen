@@ -4,7 +4,7 @@ Mobile developer in Ho Chi Minh City. Five years of Flutter and React Native, sh
 
 **Now**
 
-- Mobile developer at Pitek, building Picare: a property-management platform for residential buildings. Two Flutter apps (staff and residents) from one monorepo I architected, on Firebase + Cloud Functions
+- Building a property-management platform for residential buildings: two Flutter apps (staff and residents) from one monorepo I architected, on Firebase + Cloud Functions
 - Building [VocabNote](https://vocabnote.study), an AI vocabulary app. Solo: Flutter app, Firebase backend, Gemini integration, and the App Store release. 1,000+ users
 
 **Before**
