@@ -14,6 +14,13 @@ Mobile developer in Ho Chi Minh City. 4+ years of Flutter and React Native, ship
 - ViHAT Software: task, leave-request, and replacement workflows for a farm-management app
 - TMA Solutions: where I started, on Fetcha, a React Native food-ordering app
 
-**Stack**: Dart · Flutter · BLoC · TypeScript · React Native · Firebase · Cloud Functions · Gemini API · RevenueCat · Swift · Kotlin
+**Skills**
+
+- **Languages**: Dart · JavaScript/TypeScript · Swift · Kotlin/Java
+- **Frameworks / UI**: Flutter · React Native · UIKit · Android XML
+- **Architecture**: BLoC · MVVM · MVC · Clean Architecture · Redux
+- **Backend (familiar)**: NestJS · Gin (Go)
+- **Cloud, AI & payments**: Firebase · Cloud Functions · Gemini API · RevenueCat
+- **Databases**: MongoDB · PostgreSQL · Firestore
 
 **Elsewhere**: [vocabnote.study](https://vocabnote.study) · [nvphi.dev@gmail.com](mailto:nvphi.dev@gmail.com)
